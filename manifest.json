@@ -1,6 +1,6 @@
 {
-  "name": "Number World",
-  "short_name": "Number World",
+  "name": "Rehan's Islands",
+  "short_name": "Rehan's Islands",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

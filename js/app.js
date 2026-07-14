@@ -112,7 +112,7 @@ const App = (() => {
   // ---------- home ----------
   function renderHome() {
     const g = document.getElementById("greeting");
-    g.textContent = state.name ? `Hello, ${state.name}!` : "Number World";
+    g.textContent = state.name ? `Hello, ${state.name}!` : "Rehan's Islands";
     document.getElementById("star-count").textContent = state.stars;
     document.getElementById("sub-puzzles").textContent = Puzzles.subtitle();
     document.getElementById("sub-words").textContent = Words.subtitle();
